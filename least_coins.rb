@@ -1,6 +1,6 @@
 #write out your code here
 
-def least_coins=117
+def least_coins(cents)
 coins={"Quarters"=> 0, "dimes"=> 0, "nickles"=> 0, "pennies"=> 0 }
 If  "pennies"<5
 puts "pennies"=1
@@ -26,3 +26,14 @@ least_coins
 
 
 end
+
+
+
+
+
+
+
+
+
+
+
