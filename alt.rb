@@ -2,7 +2,7 @@ def least_coins(cents)
   solution = {}
   
   num_quarters = cents / 25 
-  solution [:quarters]=quarters 
+  solution [:quarters]= num_quarters 
   
   puts solution
   
