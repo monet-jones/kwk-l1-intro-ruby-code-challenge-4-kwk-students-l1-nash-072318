@@ -21,4 +21,4 @@ def least_coins(cents)
   
 end 
 
-least_coins(70)
+least_coins(356)
